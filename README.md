@@ -1,4 +1,4 @@
-# GreenHpose-Monitoring-System
+# GreenHouse-Monitoring-System
 ## About the project
 A green house is where plants such as flowers and vegetables are grown. Green houses help to protect crops from many diseases, particularly those that are soil borne and splash onto plants in the rain. Numerous farmers fail to get good profits from the greenhouse crops for the reason that they can’t manage two essential factors, which determines plant growth as well as productivity. 
   1) Green house temperature
