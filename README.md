@@ -7,12 +7,12 @@ A green house is where plants such as flowers and vegetables are grown. Green ho
 To overcome such challenges, this greenhouse monitoring and control system comes to rescue.
 To ensure the best possible plant growth, the suggested system, including temperature, moisture, soil humidity, light intensity, and so on, must be continuously monitored and managed. This work demonstrates a management system for greenhouse facilities based on the Internet of Things (IOT). The system can detect visible conditions such as humidity, soil moisture, temperature. All environmental data is transmitted to Thingspeak, a remotely accessible online platform, using the NodeMCU esp8266.
 
-#### Features
+### Features
   1) Real-time monitoring of temperature, humidity, soil moisture, and light intensity
   2) Remote data transmission and visualization using ThingSpeak
   3) Automated control system for optimal greenhouse conditions
 
-#### Prerequisite
+### Prerequisite
 Before you begin, ensure you have met the following requirements:
 ##### Hardware:
   1) NodeMCU ESP8266
@@ -26,10 +26,11 @@ Before you begin, ensure you have met the following requirements:
   2) ThingSpeak account (for data visualization)
   3) Libraries for sensors and ThingSpeak (installable via Arduino IDE Library Manager)
 
-#### Installation
+### Installation
 ##### Open the project in Arduino IDE:
   1) Open the '.ino' file in the Arduino IDE.
 ##### Install required libraries:
+  1) Go to 'Sketch -> Include Library -> Manage Libraries...'
 ##### Configure your ThingSpeak account:
   1) Create a new channel in ThingSpeak.
   2) Note the 'Channel ID' and 'API Key'.
